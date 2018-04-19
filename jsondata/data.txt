@@ -1,0 +1,5 @@
+{"age": 21, "gender": "Male", "name": "Ryan"}
+{"age": 18, "gender": "Male", "name": "Joe"}
+{"age": 24, "gender": "Female", "name": "Jean"}
+{"age": "22", "gender": "Male", "name": "Agung"}
+{"age": "18", "gender": "Female", "name": "Putri"}
